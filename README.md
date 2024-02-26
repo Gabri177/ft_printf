@@ -40,7 +40,7 @@ int main(void)
 ## Installation
 To start using ft_printf in your projects, follow these steps:    
 ```c
-git clone https://github.com/yourusername/ft_printf.git
+git clone https://github.com/GabriGao177/ft_printf.git
 cd ft_printf
 make
 ```
